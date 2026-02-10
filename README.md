@@ -8,7 +8,7 @@ https://snownotes.org/snow-map/
 This project visualizes snow depth observations from the current season,
 showing regional distribution and time series changes across Japan.
 
-![Snow Depth Map Overview](images/snow-depth-map-overview.png)
+![Snow Depth Map Overview](https://github.com/Shotaro-Kamimura/snow-depth-map/blob/main/snow-depth-map.png?raw=true)
 
 ## Why Snow Depth Matters
 Snow depth is not just a meteorological value.
